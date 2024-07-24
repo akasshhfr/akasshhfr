@@ -1,4 +1,4 @@
-👋 Hi there! I'm Akash Dubey, an aspiring coder from Mumbai, India, eager to master the art of Java programming. At 18, I'm on a mission to become an excellent coder, soaking up knowledge from experienced developers like you.
+👋 Hi there! I'm Akash Dubey, an aspiring coder from Mumbai, India, eager to master the art of programming. At 18, I'm on a mission to become an excellent coder, soaking up knowledge from experienced developers like you.
 
 🌟 My journey in Java is just beginning, and I'm hungry to learn from the best. If you have tips, tricks, or wisdom to share, I'm all ears!
 
